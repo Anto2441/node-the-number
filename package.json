@@ -1,0 +1,21 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS='--no-warnings' node --experimental-vm-modules node_modules/jest/bin/jest.js --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "clear": "^0.1.0",
+    "figlet": "^1.8.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
