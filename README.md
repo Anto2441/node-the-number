@@ -1,3 +1,8 @@
+
+![Capture d’écran 2025-03-26 à 16 01 46](https://github.com/user-attachments/assets/2ee2e2a9-101e-4460-b7e3-f9fbe693271a)
+
+![Capture d’écran 2025-03-26 à 16 03 03](https://github.com/user-attachments/assets/742c1fe0-7b43-4388-8fd1-98032b8cecf8)
+
 # 🎯 Number Guessing Game - CLI Edition
 
 Welcome to the **Number Guessing Game**, a fun and interactive Command-Line Interface (CLI) game built with **Node.js**! Test your luck and logic as you try to guess the randomly chosen number within the fewest attempts possible.
